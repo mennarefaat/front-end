@@ -1,0 +1,63 @@
+body{
+    background-color: dodgerblue;
+}
+form{
+    background-color: white;
+    width:60vh;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+    height:50vh;
+    border-radius:15px;
+    position:absolute;
+    top:25%;
+    left:35vw;
+    
+
+}
+div{
+    margin: 10%;
+    color: rgb(7, 7, 88);
+    font-size: large;
+    font-weight: bold;
+}
+input{
+    display: inline-block;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: none;
+    width:250px;
+    margin-bottom: 20px;
+    background-color:rgba(10, 12, 110, 0.178);
+    text-align: left;
+    letter-spacing: 2px;
+}
+button{
+    display: inline-block;
+    color:white;
+    background-color: rgb(36, 177, 233);
+    border-radius: 7px;
+    width: 100px;
+    height:35px;
+    border-style: none;
+    margin: 5px auto;
+    text-align: center;
+    
+    
+    
+
+}
+select,option{
+    display: inline-block;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: none;
+    width:100px;
+    margin-bottom: 20px;
+    background-color:rgba(10, 12, 110, 0.178);
+    text-align: left;
+    letter-spacing: 2px;}
+
+    

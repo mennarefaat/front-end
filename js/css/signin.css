@@ -1,0 +1,67 @@
+body{
+    background-color: dodgerblue;
+}
+form{
+    background-color: white;
+    width:60vh;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+    height:50vh;
+    border-radius:15px;
+    position:absolute;
+    top:25%;
+    left:35vw;
+    
+
+}
+ul{
+    display: inline-block;
+    width: 30%;
+    padding-top: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-right: 10%;
+}
+li{
+    display: inline-block;
+    color: rgb(167, 165, 165);
+    align-items: center;
+    padding:7px;
+    margin:auto;
+    list-style: none;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+input{
+    display: inline-block;
+    padding:15px;
+    border-radius: 10px;
+    text-align: center;
+    border-style: none;
+    width:250px;
+    margin-bottom: 20px;
+    background-color:rgb(238, 238, 238);
+    text-align: left;
+    letter-spacing: 2px;
+}
+button{
+    display: inline-block;
+    color:white;
+    background-color: rgb(36, 177, 233);
+    border-radius: 7px;
+    width: 150px;
+    height:35px;
+    border-style: none;
+    margin: 5px auto;
+    text-align: center;
+    box-shadow: 8px 6px 20px rgb(143, 207, 236);
+    
+    
+
+}
+
+    

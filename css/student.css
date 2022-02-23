@@ -1,0 +1,17 @@
+body{
+    background-color: dodgerblue;
+}
+table{
+    background-color: white;
+    width:90vh;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+    height:90vh;
+    border-radius:15px;
+    position:absolute;
+    top:25%;
+    left:35vw;
+    
+
+}

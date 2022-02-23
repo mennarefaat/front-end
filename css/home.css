@@ -1,0 +1,43 @@
+body{
+    background-color: dodgerblue;
+}
+div{
+    background-color: white;
+    width:60vh;
+    align-items: center;
+    text-align: center;
+    margin:auto;
+    height:50vh;
+    border-radius:15px;
+    position:absolute;
+    top:25%;
+    left:35vw;
+    
+
+}
+ul{
+    display: inline-block;
+    width: 30%;
+    padding-top: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-right: 10%;
+}
+li{
+    display: inline-block;
+    padding:15px;
+    list-style: none;
+    font-family:sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(11, 55, 117, 0.897);
+}
+p{
+  
+    font-weight:bold;
+    font-size:x-large ;
+}
